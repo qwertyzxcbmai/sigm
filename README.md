@@ -40,3 +40,7 @@ LEFT JOIN cart ca ON ca.customer_id = c.customer_id;
 - SELECT username AS name, 'admin' AS role FROM admin_user
 UNION                                                                                   -UNION
 SELECT first_name || ' ' || last_name AS name, 'customer' AS role FROM customer;
+
+
+
+<img width="1840" height="716" alt="image" src="https://github.com/user-attachments/assets/a8f41b40-89fc-43c6-9139-448787c38f38" />
